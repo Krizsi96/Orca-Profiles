@@ -13,7 +13,6 @@
     "internal_solid_infill_pattern": "monotonicline",
     "internal_solid_infill_speed": "80",
     "is_custom_defined": "0",
-    "layer_height": "0.15",
     "line_width": "0.62",
     "name": "0.20mm Smooth@Creality Ender5S1",
     "only_one_wall_first_layer": "1",
