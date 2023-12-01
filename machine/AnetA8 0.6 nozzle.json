@@ -1,0 +1,29 @@
+{
+    "fan_speedup_time": "1",
+    "from": "User",
+    "inherits": "MyMarlin 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_start_gcode": "G90 ; use absolute coordinates\nM83 ; extruder relative mode\nM204 S[machine_max_acceleration_extruding] T[machine_max_acceleration_retracting]\nM104 S[first_layer_temperature] ; set extruder temp\nM140 S[first_layer_bed_temperature] ; set bed temp\nG28 ; home all\nG1 Y1.0 Z15 F1000 ; move print head up\nM190 S[first_layer_bed_temperature] ; wait for bed temp\nM109 S[first_layer_temperature] ; wait for extruder temp",
+    "max_layer_height": [
+        "0.42"
+    ],
+    "min_layer_height": [
+        "0.12"
+    ],
+    "name": "AnetA8 0.6 nozzle",
+    "nozzle_diameter": [
+        "0.6"
+    ],
+    "printable_area": [
+        "0x0",
+        "220x0",
+        "220x220",
+        "0x220"
+    ],
+    "printable_height": "240",
+    "printer_settings_id": "AnetA8 0.6 nozzle",
+    "version": "1.6.1.0",
+    "z_hop_types": [
+        "Slope Lift"
+    ]
+}

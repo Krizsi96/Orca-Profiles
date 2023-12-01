@@ -1,0 +1,14 @@
+{
+    "bottom_surface_pattern": "hilbertcurve",
+    "brim_type": "outer_and_inner",
+    "brim_width": "15",
+    "from": "User",
+    "fuzzy_skin": "allwalls",
+    "inherits": "0.20mm Standard @Creality Ender5S1",
+    "is_custom_defined": "0",
+    "name": "0.20mm Fuzzy@Creality Ender5S1",
+    "print_settings_id": "0.20mm Fuzzy@Creality Ender5S1",
+    "top_surface_pattern": "hilbertcurve",
+    "version": "1.7.0.0",
+    "wall_loops": "4"
+}

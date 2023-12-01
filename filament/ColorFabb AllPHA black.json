@@ -1,0 +1,61 @@
+{
+    "default_filament_colour": [
+        "#101010"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "67"
+    ],
+    "filament_flow_ratio": [
+        "0.9"
+    ],
+    "filament_max_volumetric_speed": [
+        "11"
+    ],
+    "filament_settings_id": [
+        "ColorFabb AllPHA black"
+    ],
+    "filament_type": [
+        "PHA"
+    ],
+    "filament_vendor": [
+        "ColorFabb"
+    ],
+    "filament_wipe": [
+        "1"
+    ],
+    "filament_wipe_distance": [
+        "1"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "1"
+    ],
+    "hot_plate_temp": [
+        "0"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "0"
+    ],
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "ColorFabb AllPHA black",
+    "nozzle_temperature": [
+        "195"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "nozzle_temperature_range_high": [
+        "200"
+    ],
+    "temperature_vitrification": [
+        "140"
+    ],
+    "version": "1.7.0.0"
+}
