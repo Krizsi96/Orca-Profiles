@@ -10,7 +10,7 @@ This repo should be cloned to the local OrcaSlicer application data folder. that
 
 Follow the instructions of `teaching tech` from this [website](https://teachingtechyt.github.io/calibration.html#linadv)
 
-`⚠` For machine calibration (*step 1*) try to not use filament methods (like XYZ calibration with filament), because the can affect the result and your setting will be filament specific. Generalyze it as much as possible and use slicer settings (*step 2*) for compensating the filament behavior (like different flowrate, or shrinkage after printing).
+⚠️ For machine calibration (*step 1*) try to not use filament methods (like XYZ calibration with filament), because the can affect the result and your setting will be filament specific. Generalyze it as much as possible and use slicer settings (*step 2*) for compensating the filament behavior (like different flowrate, or shrinkage after printing).
 
 1. **Calibrate the printer in the firmware**
 
@@ -28,12 +28,12 @@ Follow the instructions of `teaching tech` from this [website](https://teachingt
 - retraction tuning
 - linear advance
 
-`ℹ` Good way to test the dimensional accuracy is printing the LEGO test object. Print it both in horizontal and vertical position, then check the dimensions and the fitment with original LEGO parts.
+ℹ️ Good way to test the dimensional accuracy is printing the LEGO test object. Print it both in horizontal and vertical position, then check the dimensions and the fitment with original LEGO parts.
 
 ## Commit types
 
 The commits to the repository must follow the [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/#specification) style with the following types:
 
-    - **new:** the change adds a new profile
-    - **fix:** the change fixes an existing profile
-    - **docs:** the change adds or changes the documentation
+- **new:** the change adds a new profile
+- **fix:** the change fixes an existing profile
+- **docs:** the change adds or changes the documentation
