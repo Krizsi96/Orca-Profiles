@@ -6,6 +6,8 @@ This repo should be cloned to the local OrcaSlicer application data folder. that
 
 - on Windows: `C:\Users\<username>\AppData\Roaming\OrcaSlicer\user\<username>`
 
+then rename the repo folder to `default`.
+
 ## How to tune your printer settings
 
 Follow the instructions of `teaching tech` from this [website](https://teachingtechyt.github.io/calibration.html#linadv)
