@@ -5,6 +5,7 @@
 This repo should be cloned to the local OrcaSlicer application data folder. that can be found at...
 
 - on Windows: `C:\Users\<username>\AppData\Roaming\OrcaSlicer\user\<username>`
+- on Linux: `~/.config/OrcaSlicer/user/`
 
 then rename the repo folder to `default`.
 
