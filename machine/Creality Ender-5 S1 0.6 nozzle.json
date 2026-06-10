@@ -4,7 +4,6 @@
     "from": "User",
     "gcode_flavor": "marlin2",
     "inherits": "Creality Ender-5 S1 0.4 nozzle",
-    "is_custom_defined": "0",
     "max_layer_height": [
         "0.48"
     ],
@@ -15,11 +14,19 @@
     "nozzle_diameter": [
         "0.6"
     ],
-    "nozzle_type": "hardened_steel",
-    "printer_settings_id": "Creality Ender-5 S1 0.6 nozzle",
-    "thumbnails": [
-        "180x180"
+    "nozzle_type": [
+        "hardened_steel"
     ],
+    "print_host": "ender5s1.local",
+    "printer_agent": "moonraker",
+    "printer_extruder_id": [
+        "1"
+    ],
+    "printer_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "printer_settings_id": "Creality Ender-5 S1 0.6 nozzle",
+    "thumbnails": "180x180/PNG",
     "version": "1.7.0.0",
     "z_hop": [
         "0.25"
