@@ -6,7 +6,7 @@ This repo should be cloned to the local OrcaSlicer application data folder. that
 
 - on Windows: `C:\Users\<username>\AppData\Roaming\OrcaSlicer\user\<username>`
 - on Linux (Ubuntu): `/home/<username>/.config/OrcaSlicer/user/`
-- on Linux (Flatpak): `/home/<username>/.var/app/io.github.softfever.OrcaSlicer/config/OrcaSlicer`
+- on Linux (Flatpak): `/home/<username>/.var/app/com.orcaslicer.OrcaSlicer/config/OrcaSlicer/user`
 
 then rename the repo folder to `default`.
 
@@ -36,8 +36,4 @@ Follow the instructions of `teaching tech` from this [website](https://teachingt
 
 ## Commit types
 
-The commits to the repository must follow the [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/#specification) style with the following types:
-
-- **new:** the change adds a new profile
-- **fix:** the change fixes an existing profile
-- **docs:** the change adds or changes the documentation
+Use [Gitmojis😉](https://gitmoji.dev/) spec for the commit messsages.
