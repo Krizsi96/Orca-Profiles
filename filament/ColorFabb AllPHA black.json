@@ -8,6 +8,9 @@
     "filament_cost": [
         "67"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_flow_ratio": [
         "0.9"
     ],
@@ -43,7 +46,9 @@
         "0"
     ],
     "inherits": "Creality Generic PLA",
-    "is_custom_defined": "0",
+    "internal_bridge_fan_speed": [
+        "50"
+    ],
     "name": "ColorFabb AllPHA black",
     "nozzle_temperature": [
         "195"

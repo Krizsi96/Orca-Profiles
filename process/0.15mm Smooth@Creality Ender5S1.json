@@ -2,6 +2,8 @@
     "bottom_shell_thickness": "1",
     "bottom_solid_infill_flow_ratio": "1.35",
     "bottom_surface_pattern": "hilbertcurve",
+    "bridge_flow": "2",
+    "bridge_speed": "40",
     "brim_type": "outer_only",
     "brim_width": "15",
     "elefant_foot_compensation": "0.15",
@@ -12,13 +14,18 @@
     "inner_wall_speed": "80",
     "internal_solid_infill_pattern": "monotonicline",
     "internal_solid_infill_speed": "80",
-    "is_custom_defined": "0",
     "layer_height": "0.15",
     "line_width": "0.62",
     "name": "0.15mm Smooth@Creality Ender5S1",
     "only_one_wall_first_layer": "1",
     "outer_wall_line_width": "0.6",
     "outer_wall_speed": "50",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "print_settings_id": "0.15mm Smooth@Creality Ender5S1",
     "reduce_crossing_wall": "1",
     "skirt_height": "1",
@@ -34,5 +41,5 @@
     "top_surface_pattern": "hilbertcurve",
     "travel_speed": "200",
     "version": "1.7.0.0",
-    "wall_infill_order": "outer wall/inner wall/infill"
+    "wall_sequence": "outer wall/inner wall"
 }
