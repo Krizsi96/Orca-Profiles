@@ -15,10 +15,19 @@
         "0.92"
     ],
     "filament_max_volumetric_speed": [
-        "11"
+        "11.7"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_retraction_length": [
+        "0.3"
     ],
     "filament_settings_id": [
         "ColorFabb AllPHA black"
+    ],
+    "filament_shrink": [
+        "99%"
     ],
     "filament_type": [
         "PHA"
@@ -27,7 +36,7 @@
         "ColorFabb"
     ],
     "filament_wipe": [
-        "1"
+        "0"
     ],
     "filament_wipe_distance": [
         "1"
@@ -60,7 +69,7 @@
         "200"
     ],
     "pressure_advance": [
-        "0"
+        "0.03"
     ],
     "temperature_vitrification": [
         "140"
